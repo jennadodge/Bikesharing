@@ -1,6 +1,7 @@
 # Bikesharing
 
 ## Overview
+The purpose of this analysis is to analyze Bikeshare data from a NYC bike share company to gather information to pitch a similar idea for a bikeshare company in Des Moines. 
 
 ## Results
 
