@@ -1,7 +1,6 @@
 # Bikesharing
 
 ## Overview
-### The purpose of the analysis is well defined 
 
 ## Results
 
